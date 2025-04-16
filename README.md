@@ -1,1 +1,3 @@
-# Quarter4_FA2
+- This is a Laboratory Activity on Modules 12
+- The topics covered in this activity is Loops.
+- https://github.com/LaraBeatrizBSenarillos/Quarter4_FA2
